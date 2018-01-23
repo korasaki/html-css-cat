@@ -1,0 +1,84 @@
+body{
+	text-align: center;
+	line-height: 1,5;
+
+}
+.pro{
+	width:100%;
+	padding:0;
+}
+.pq{
+	text-align:center
+	color: blue;
+}
+
+}
+.kq{
+	background:url("IMG-20160615-WA0031.jpg");
+}
+.alkaline a {
+	background-color: #fff;
+			padding: 30px;
+	text-decoration:  none;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.alkaline li {
+	display: inline;
+			margin-right: 30px;
+			padding: 20px;
+			list-style: none;
+	float: left;
+	display:inline;
+	padding:0 20px 0 20px;
+}
+.nav{
+	float:left;
+	color:white;
+}
+.alkaline{
+	float:right;
+}
+.header{
+	min-height: 75px;
+	padding-top:30px;
+}
+.xy{
+	border: 1em
+}
+.id{
+	display:block;
+	width:100%;
+}
+.kal{
+	background:silver;
+}
+.like{
+	background:#999966; 
+	float:left;
+	text-align:center;
+	padding:11px;
+	width:46%;
+}
+.like img{
+	width:90px;
+}
+.pen{
+	background:grey;
+	float:left;
+	text-align:center;
+	padding:17px;
+	width:46%;
+}
+.pen img{
+	width:90px;
+}
+.footer{
+	background-color:#868679;
+	padding:25px;
+	display:block; 
+	clear:both;
+	text-align:center;
+	width:100%;
+	color:yellow;
+}
